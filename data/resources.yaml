@@ -1,0 +1,5 @@
+documents:
+  doc1:
+    owner: alice
+  doc2:
+    owner: bob

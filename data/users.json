@@ -1,0 +1,4 @@
+{
+  "alice": {"role": "admin"},
+  "bob": {"role": "user"}
+}

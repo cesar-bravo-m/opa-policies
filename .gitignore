@@ -1,0 +1,6 @@
+# OPA bundles
+*.tar.gz
+*.bundle
+
+# Editor files
+*.swp
