@@ -3,6 +3,6 @@ package example.authz
 default allow = false
 
 allow if {
-  input.user == "alice"
+  input.user == "bob"
   input.action == "read"
 }
