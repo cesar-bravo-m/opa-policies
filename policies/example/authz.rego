@@ -4,6 +4,6 @@ import data.example.helpers
 
 default allow = false
 
-allow {
+allow if {
     helpers.is_admin(input.user)
 }
